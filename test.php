@@ -72,7 +72,7 @@
 <body>
     <div id="preparing-file-modal" style="display:none">Rog asteptati!...</div>
     <div id="error-modal" style="display:none">Eroare incarcare! ...</div>
-    <a  class="fileDownloadCustomRichExperience" href="/download.php?filename=SCJP Sun Certified Programmer for Java 6 Exam 310-065SCJP Sun Certified Programmer for Java 6 Exam 310-065.pdf">download file with fileDownloader</a> <br>
+    <a  class="fileDownloadCustomRichExperience" href="/download.php?filename=test.pdf">download file with fileDownloader</a> <br>
     <a  class="fileDownloadCustomRichExperience" href="/download.php?filename=Tranzactii_bf.pdf"> download second file with fileDownloader</a><br>
     <a id="report" href="/test.pdf">Anchor download</a>
 
