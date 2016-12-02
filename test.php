@@ -39,7 +39,7 @@
                            return false; //this is critical to stop the click event which will trigger a normal file download!
                        });*/
 					   
-					    $(document).on("click", "a.fileDownloadCustomRichExperience", function () {
+$(document).on("click", "a.fileDownloadCustomRichExperience", function () {
  
         var $preparingFileModal = $("#preparing-file-modal");
  
